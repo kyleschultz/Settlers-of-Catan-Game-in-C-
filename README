@@ -1,0 +1,16 @@
+Our project can be run by openeing the finalProj.pro in Qt Creator and pressing the play button.
+Follow on-screen prompt for game-play instructions.
+
+For reference:
+We have 3 color coded resources
+    Cattle is blue
+    Brick is red
+    Lumber is green
+The players are also color coded, with corresponding light and dark colors for towns and cities
+    Player1 is teal
+    Player2 is yellow
+    Player3 is gray
+
+Turns after the initial settlement placements are not yet implemented.
+"Buying" towns or cities is currently disabled.
+Rolling the dice after inital settlement placement is not yet limited.
